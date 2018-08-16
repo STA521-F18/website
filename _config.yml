@@ -35,4 +35,4 @@ social:
   linkedin: merliseclyde
 permalink: /404.html
 
-theme: jekyll-theme-noita
+remote-theme: penibelst/jekyll-noita
