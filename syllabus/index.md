@@ -266,7 +266,7 @@ Duke University is a community dedicated to scholarship, leadership, and service
 software development. As a professional data scientist you will often
 build on the code of others. This class is structured such that all
 solutions are public. You are encouraged to learn from the work of
-your peers, however this should not involve simply cuting and pasting.
+your peers, however this should not involve simply cutting and pasting.
 I won't hunt down people who are simply copying-and-pasting solutions,
 because without challenging themselves to learn the material, they are simply wasting their time and money taking this class.
 

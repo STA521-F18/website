@@ -30,7 +30,7 @@ STA 360/601/602 or  currently co-registered in the course.  Please see me if you
 |Professor   | [Dr. Merlise Clyde ](http://stat.duke.edu/~clyde) | [clyde@duke.edu](mailto:clyde@duke.edu)
 |:--------------|:-----------------------|:----------------------|
 |TA  |[Abbas Zaidi](https://stat.duke.edu/people/abbas-zaidi) | [abbas.zaidi@duke.edu](mailto:abbas.zaidi@duke.edu) |
-|TA   |TBA](http://stat.duke.edu/people/tba) | [tba@duke.edu](mailto:tba@duke.edu) |
+|TA   |[Jiurui Tang](http://stat.duke.edu/people/jiurui-tang) | [jiurui.tang@duke.edu](mailto:jiurui.tang@duke.edu) |
 |------------+--------------------+-------------------|
 
 
@@ -39,8 +39,8 @@ STA 360/601/602 or  currently co-registered in the course.  Please see me if you
 
 ### Class meetings:
 
-* Lectures: Wednesday & Friday, 10:05 - 11:20am  Perkins 071
-* Discussion/Lab Monday, 10:05 - 11:20am  Old Chem 116
+* Lectures: Wednesday & Friday, 10:05 - 11:20am  Social Sciences 311
+* Discussion/Lab Monday, 10:05 - 11:20am Social Sciences 311
 
 
 * * *
@@ -51,6 +51,7 @@ STA 360/601/602 or  currently co-registered in the course.  Please see me if you
 | Who       |  Where | When      
 |:----------------|:--------|:-----------|
 | Professor Clyde |  Old Chemistry 214A |  TBA|
+| Jiurui Tang | Old Chemistry 211A | TBA|
 | Abbas Zaidi |  Old Chemistry 211A |  TBA|
 |-----------+--------+-----------|
 
@@ -71,7 +72,7 @@ are available on the  [Calendar]({{site.baseurl}}/calendar)
 * Link to [Sakai](http://sakai.duke.edu) allows access to Video
   Lectures, Gradebook, the  Piazza discussion forum
 
-* [Github](http://github.com/sta521-S17) for Class Github Organization
+* [Github](http://github.com/sta521-F18) for Class Github Organization
   for Team coding submissions
   
 
