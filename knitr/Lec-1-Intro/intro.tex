@@ -2,6 +2,7 @@
 \PassOptionsToPackage{hyphens}{url}
 %
 \documentclass[ignorenonframetext,]{beamer}
+\usepackage{pgfpages}
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{: }
 \setbeamercolor{caption name}{fg=normal text.fg}
@@ -18,7 +19,6 @@
   \usepackage{unicode-math}
   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
 \fi
-\usetheme[]{Rochester}
 % use upquote if available, for straight quotes in verbatim environments
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 % use microtype if available
@@ -295,7 +295,7 @@ Data Analysis Part II & 15\%\tabularnewline
 
 \includegraphics{http://www.ibm.com/developerworks/jp/opensource/library/os-datascience/figure1.png}
 
-See (Bin Yu’s IMS Presidential Address
+See (Bin Yu's IMS Presidential Address
 2014){[}\url{http://bulletin.imstat.org/2014/10/ims-presidential-address-let-us-own-data-science/}{]}
 
 \end{frame}
@@ -476,7 +476,7 @@ See (Bin Yu’s IMS Presidential Address
   For problems involving hypothesis testing or model selection
   Frequentist and Bayesian methods can be strikingly different.
 \item
-  Frequentist methods often faster (particularly with ``big data’’) so
+  Frequentist methods often faster (particularly with ``big data'') so
   great for exploratory analysis and for building a \emph{data-sense}
 \item
   Bayesian methods sit on top of Frequentist Likelihood
