@@ -1,0 +1,42 @@
+---
+title: "Introduction to Modern Regression and Predictive Modeling"
+author: "Merlise Clyde"
+date: "8/29/2018"
+output:
+  beamer_presentation:
+    fig_caption: false
+    incremental: yes
+    latex_engine: xelatex
+  ioslides_presentation:
+    incremental: yes
+notes: ''
+link: yes
+reading: Codeschool - <a href='https://www.codeschool.com/courses/try-r'>Try R</a>
+slides: yes
+layout: page
+---
+
+
+
+## Coordinates
+ 
+ * Instructor:  Merlise Clyde
+ * TAs:
+     + Jiurui Tang
+     + Abbas Zaidi
+ * Course Websites:  
+    + Main  http://stat.duke.edu/courses/Fall18/sta521
+     + Sakai https://sakai.duke.edu/portal/site/sta521-f18
+     + Github  https://github.com/STA521-F18
+
+## Grading
+
+
+Component                      Percentage
+-----------------------------  ----------
+ Participation                  5%
+ Homework                       25%
+ Midterm 1                      20%
+ Midterm 2                      20%
+ Data Analysis Part I           15%
+ Data Analysis Part II          15%

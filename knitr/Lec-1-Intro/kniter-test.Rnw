@@ -1,0 +1,27 @@
+%\documentclass[]{beamer}
+\documentclass[handout]{beamer}
+%\usepackage[dvips]{color}
+\usepackage{graphicx}
+
+\makeatletter
+\def\blfootnote{\xdef\@thefnmark{}\@footnotetext}
+\makeatother
+\usetheme{default}
+
+\title{Bayesian Inference in a Post p-value World?}
+\author{Merlise Clyde}
+\institute{Statistical Science, Duke University}
+\date{UC Irvine 2018 \\ \today}
+
+\begin{document}
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}{URL image example that fails}
+
+\includegraphics{http://www.ibm.com/developerworks/jp/opensource/library/os-datascience/figure1.png}
+
+\end{frame}
+
+\end{document}
