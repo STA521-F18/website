@@ -6,10 +6,7 @@ output:
   ioslides_presentation:
     incremental: yes
   beamer_presentation:
-<<<<<<< HEAD
     fig_caption:  false
-=======
->>>>>>> 79ebf32da8561316ea623e39fa6490c7df00475f
     incremental: yes
     latex_engine: xelatex
 notes: ''
