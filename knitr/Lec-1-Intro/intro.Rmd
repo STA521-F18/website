@@ -1,14 +1,13 @@
-
 ---
 title: "Introduction to Modern Regression and Predictive Modeling"
 author: "Merlise Clyde"
 date: "8/29/2018"
 output:
-  beamer_presentation:
-    theme: Rochester
-    incremental: yes
   ioslides_presentation:
     incremental: yes
+  beamer_presentation:
+    incremental: yes
+    latex_engine: xelatex
 notes: ''
 link: yes
 reading: Codeschool - <a href='https://www.codeschool.com/courses/try-r'>Try R</a>
