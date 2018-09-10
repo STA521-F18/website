@@ -42,7 +42,7 @@ STA 360/601/602 or  currently co-registered in the course.  Please see me if you
 * Lectures: Wednesday & Friday, 10:05 - 11:20am  Social Sciences 311
 * Discussion/Lab Monday, 10:05 - 11:20am Social Sciences 311
 
-
+We may move "lab" to other times depending on topics.
 * * *
 
 ### <a name="oh"></a>Office Hours (TBA)
@@ -50,10 +50,13 @@ STA 360/601/602 or  currently co-registered in the course.  Please see me if you
 |-----------+--------+-----------|
 | Who       |  Where | When      
 |:----------------|:--------|:-----------|
-| Professor Clyde |  Old Chemistry 214A |  TBA|
-| Jiurui Tang | Old Chemistry 211A | TBA|
-| Abbas Zaidi |  Old Chemistry 211A |  TBA|
+| Professor Clyde |  Old Chemistry 214A |  WF 11:30-12, W 1:30-2:30, Th 9-10 |
+| Jiurui Tang | Old Chemistry 203 | Tu/Th 3-4pm|
+| Abbas Zaidi |  Old Chemistry 203 | Tu  4:30-6:30 pm |
 |-----------+--------+-----------|
+
+
+For questions outside of class/office hours please post on Piazza
 
 * * *
 
